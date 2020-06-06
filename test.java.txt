@@ -13,15 +13,7 @@ public class Test {
 		hashMap.put("c", 3);
 		System.out.println("Test.main()" + hashMap);
 
-		TreeMap map = new TreeMap();
-		map.put("a", 5);
-		map.put("d", 4);
-		map.put("b", 2);
-		map.put("a", 6);
-		map.put("s", 0);
-		map.put("x", 4);
-		map.put("c", 3);
-		System.out.println("Test.main()" + map);
+		
 		
 	}
 }
