@@ -72,7 +72,6 @@ class QuizBee extends Component {
 ReactDOM.render(
   <React.StrictMode>
     <QuizBee />
-
   </React.StrictMode>,
   document.getElementById('root')
 );
