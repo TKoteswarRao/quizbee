@@ -1,4 +1,6 @@
 {
+  
+  "homepage": "https://TKoteswarRao.github.io/quizbee.git",
   "name": "quizbee",
   "version": "0.1.0",
   "private": true,
@@ -30,5 +32,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependancies":{
+   "gh-pages":"^2.1.1" 
   }
+  
 }
